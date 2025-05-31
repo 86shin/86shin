@@ -1,4 +1,10 @@
-## Hi there 👋
+## 皆さん、こんにちは！ 👋
+
+IT系専門生2回生　インフラエンジニア志望
+使用可能言語：　js nodejs express 
+今学んでいること：　react Golang
+
+技術力は全く無いけど、頑張っていこう✨️
 
 <!--
 **86shin/86shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
