@@ -12,6 +12,9 @@ IT系専門生2回生　インフラエンジニア志望
 
 技術力は全く無いけど、頑張っていこう✨️
 
+## 📊 GitHub Stats
+![Taro's GitHub stats](https://github-readme-stats.vercel.app/api?username=86shin&show_icons=true&theme=tokyonight)
+
 <!--
 **86shin/86shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
