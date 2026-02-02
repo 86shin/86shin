@@ -1,10 +1,10 @@
 ## 皆さん、こんにちは！ 👋
 
-IT系専門生2回生　インフラエンジニア志望
+IT系専門生2回生　バックエンドorインフラエンジニア志望
 
-使用可能言語：　js nodejs express 
+使用可能言語： nodejs(expressjs) Go(echo) 
 
-今学んでいること：　react Golang
+学習中：　Docker,K8S
 
 好きなアニメ： ➀ phyco-pass 　➁ 86 　➂ 鋼の錬金術師 
 
