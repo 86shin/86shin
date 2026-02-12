@@ -27,3 +27,7 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=react&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=86shin&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+</div>
