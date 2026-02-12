@@ -1,3 +1,11 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=86shin&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding Cat" />
+</div>
+
 ## 皆さん、こんにちは！ 👋
 
 IT系専門生2回生(28卒) | バックエンド & インフラエンジニア志望
@@ -6,6 +14,8 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 
 12月に念願の**自宅サーバー**を構築しました！いろんな技術を触って勉強中<br>
 技術力はまだまだこれからですが、一歩ずつ頑張っています✨
+
+<div align="center">
 
 ## 🔗 Connect with me
 <a href="https://x.com/RgLKU00FvbfOauc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://lab.rk3s.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -21,27 +31,31 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ### 🏠 Home Lab Status
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 
+</div>
+
 ### 🖥️ Home Server Specs
 <details>
 <summary>Click to expand hardware details</summary>
 
 - **Main Server**
-  - CPU: Intel i5-10500
-  - RAM: 32GB DDR4
-  - Storage: 1TB NVMe SSD
-  - OS: Proxmox VE 9.1.4
+  - CPU: Intel i5-10500
+  - RAM: 32GB DDR4
+  - Storage: 1TB NVMe SSD
+  - OS: Proxmox VE 9.1.4
 - **Networking**
-  - Router: NEC IX2215
-  - Switch: Netgear 8-port
+  - Router: NEC IX2215
+  - Switch: Netgear 8-port
 </details>
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+![Isometric Contribution Calendar](https://github.com/86shin/86shin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/86shin/86shin/output/github-contribution-grid-snake.svg" alt="snake" />
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=react&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
----
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=86shin&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 </div>
