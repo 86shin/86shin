@@ -24,7 +24,8 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ---
 
 ## 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/86shin?base=header%2C+repositories%2C+metadata&base.indepth=false&config.timezone=Asia%2FTokyo)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=ocean&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=github&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=react&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
