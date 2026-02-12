@@ -21,6 +21,20 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ### 🏠 Home Lab Status
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 
+### 🖥️ Home Server Specs
+<details>
+<summary>Click to expand hardware details</summary>
+
+- **Main Server**
+  - CPU: Intel i5-10500
+  - RAM: 32GB DDR4
+  - Storage: 1TB NVMe SSD
+  - OS: Proxmox VE 9.1.4
+- **Networking**
+  - Router: NEC IX2215
+  - Switch: Netgear 8-port
+</details>
+
 ---
 
 ## 📊 GitHub Stats
