@@ -4,7 +4,7 @@ IT系専門生2回生　バックエンドorインフラエンジニア志望
 
 使用可能言語： nodejs(expressjs) Go(echo) 
 
-学習中：　Docker K8S
+学習中：　Podman Docker K8S
 
 12月自宅サーバー建てたよ！やったね！！
 技術力は全く無いけど、頑張っていこう✨️
