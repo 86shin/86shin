@@ -4,7 +4,7 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Backend+and+Infrastructure+Student;Home+Server+Enthusiast;Learning+K8s+and+Go)
 
-12月に念願の**自宅サーバー**を構築しました！実機とコンテナを触るのが大好きです。
+12月に念願の**自宅サーバー**を構築しました！いろんな技術を触って勉強中<br>
 技術力はまだまだこれからですが、一歩ずつ頑張っています✨
 
 ## 🔗 Connect with me
@@ -24,5 +24,8 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=86shin&layout=compact&theme=tokyonight)
-![86shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=86shin&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=86shin&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=tokyonight)
+
+---
