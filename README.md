@@ -24,8 +24,6 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ---
 
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=ocean&area=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=github&area=true)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=react&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
