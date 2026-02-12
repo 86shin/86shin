@@ -24,8 +24,7 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=86shin&theme=tokyonight)
-
+![Metrics](https://metrics.lecoq.io/86shin?base=header%2C+repositories%2C+metadata&base.indepth=false&config.timezone=Asia%2FTokyo)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=86shin&theme=tokyonight)
 
 ---
