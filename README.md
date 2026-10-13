@@ -1,3 +1,4 @@
+
 <img src="https://komarev.com/ghpvc/?username=86shin&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding Cat" />
@@ -12,31 +13,62 @@ IT系専門生2回生(28卒) | バックエンド & インフラエンジニア�
 技術力はまだまだこれからですが、一歩ずつ頑張っています✨
 
 ## 🔗 Connect with me
-<a href="https://x.com/RgLKU00FvbfOauc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://lab.rk3s.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+<a href="https://x.com/RgLKU00FvbfOauc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://lab.rk3s.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 ---
 
 ### 🛠 Skills
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Echo-00D1FF?style=for-the-badge&logo=echo&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Echo-00D1FF?style=for-the-badge&logo=echo&logoColor=white" />
 
 ### 🌱 Learning
-<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 
 ### 🏠 Home Lab Status
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Allied_Telesis-005BAC?style=flat-square&logoColor=white" />
 
 ### 🖥️ Home Server Specs
+
 <details>
 <summary>Click to expand hardware details</summary>
 
-- **Main Server**
+- **PVE1**
   - CPU: Intel i5-10500
   - RAM: 32GB DDR4
   - Storage: 1TB NVMe SSD
-  - OS: Proxmox VE 9.1.4
+  - OS: Proxmox VE 9.2.21
+
+- **PVE2**
+  - CPU: Intel i5-10500
+  - RAM: 32GB DDR4
+  - Storage: 256GB NVMe SSD
+  - OS: Proxmox VE 9.2.21
+
+- **PVE3**
+  - CPU: Intel i5-10500
+  - RAM: 16GB DDR4
+  - Storage: 512GB NVMe SSD
+  - OS: Proxmox VE 9.2.21
+
 - **Networking**
   - Router: NEC IX2215
-  - Switch: Netgear 8-port
+  - Firewall: FortiGate 60F ×2 (HA)
+  - Switch: Allied Telesis x510-28GTX
+
 </details>
 
 ---
