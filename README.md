@@ -31,6 +31,12 @@ IT系専門生2回生(28卒) | ネットワーク & インフラエンジニア�
 
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/Allied_Telesis-005BAC?style=flat-square&logoColor=white" />
 
+### 🌐 Network Devices & NOS Experience
+
+*Hands-on experience with network devices and operating systems.*
+
+<img src="https://img.shields.io/badge/Arista-FF6B00?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/NEC_IX-005BAC?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Allied_Telesis-005BAC?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/FRRouting-4B8BBE?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white" />
+
 ### 🖥️ Home Server Specs
 
 **Proxmox VE Cluster (3 Nodes)**
