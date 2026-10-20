@@ -5,7 +5,7 @@
 
 ## 皆さん、こんにちは！ 👋
 
-IT系専門生2回生(28卒) | ネットワーク & インフラエンジニア志望
+IT系専門生3回生(28卒) | ネットワーク & インフラエンジニア志望
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Network+and+Infrastructure+Student;Home+Lab+Enthusiast;Learning+K8s+and+Go)
 
